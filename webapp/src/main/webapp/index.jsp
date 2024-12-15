@@ -7,5 +7,5 @@
     <li>2. [Local Repo] Create a new folder in  "gitlab" folder titled "nfhambira.com"</li>
     <li>2. Upload (copy and paste) portfolio website folder contents into "nfhambira.com" created in step 2.</li>
     <li>3. Add all files in this local repo to git ($git add *)</li>
-    <li>4. </li>
+    <li>4. Commit these files ($git commit -m "Initial portfolio commit")</li>
   </ul> </h2>
